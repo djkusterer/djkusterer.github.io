@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Dr. David J. Kusterer</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Rate this transaction: Coordinating mappings in market feedback systems</title>
+      <link>/publication/rate-this-transaction/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/rate-this-transaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Goods, Property Rights, and Investment Incentives: An Experimental Investigation</title>
+      <link>/publication/pgo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflated Reputations: Uncertainty, Leniency, and Moral Wiggle Room in Trader Feedback Systems</title>
+      <link>/publication/inflated-reputations/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/inflated-reputations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Management of Innovation: Experimental Evidence</title>
+      <link>/publication/moi/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/moi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public-Private Partnerships versus Traditional Procurement: An Experimental Investigation</title>
+      <link>/publication/ppp/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/ppp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflicting Tasks and Moral Hazard: Theory and Experimental Evidence</title>
+      <link>/publication/ct/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/ct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Biases and Cognitive Reflection</title>
+      <link>/publication/crt/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/crt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
