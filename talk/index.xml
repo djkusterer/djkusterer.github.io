@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Dr. David J. Kusterer</title>
+    <link>https://djkusterer.github.io/talk/</link>
+      <atom:link href="https://djkusterer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://djkusterer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://djkusterer.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Meeting of the Association for Operations Research (Gesellschaft für Operations Research, GOR) working group &#34;Game Theory &amp; Behavioral Management Science&#34;</title>
+      <link>https://djkusterer.github.io/talk/2023-gor/</link>
+      <pubDate>Tue, 31 Jan 2023 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2023-gor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual Meeting of the German Economic Association (Jahrestagung des Vereins für Socialpolitik)</title>
+      <link>https://djkusterer.github.io/talk/2022-vfs/</link>
+      <pubDate>Wed, 14 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2022-vfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European ESA Conference</title>
+      <link>https://djkusterer.github.io/talk/2022-euro-esa/</link>
+      <pubDate>Fri, 02 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2022-euro-esa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maastricht Behavioral Economic Policy Symposium (M-BEPS)</title>
+      <link>https://djkusterer.github.io/talk/2022-mbeps/</link>
+      <pubDate>Wed, 08 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2022-mbeps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colloquium on Personnel Economics (COPE)</title>
+      <link>https://djkusterer.github.io/talk/2022-cope/</link>
+      <pubDate>Fri, 18 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2022-cope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
