@@ -5,12 +5,20 @@
     <link>https://djkusterer.github.io/</link>
       <atom:link href="https://djkusterer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. David J. Kusterer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Sep 2023 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djkusterer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Dr. David J. Kusterer</title>
       <link>https://djkusterer.github.io/</link>
     </image>
+    
+    <item>
+      <title>Department of Management, Paderborn University</title>
+      <link>https://djkusterer.github.io/talk/2023-paderborn/</link>
+      <pubDate>Mon, 11 Dec 2023 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2023-paderborn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XXII. Symposium on the Economic Analysis of the Firm (GEABA)</title>
