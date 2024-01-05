@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://djkusterer.github.io/publication-type/2/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://djkusterer.github.io/authors/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://djkusterer.github.io/</loc>
-    <lastmod>2023-12-11T13:00:00+00:00</lastmod>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://djkusterer.github.io/publication_types/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://djkusterer.github.io/publication/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://djkusterer.github.io/publication/spe/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djkusterer.github.io/talk/2023-paderborn/</loc>
     <lastmod>2023-12-11T13:00:00+00:00</lastmod>
@@ -21,15 +36,6 @@
     <lastmod>2022-09-14T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djkusterer.github.io/publication-type/9/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://djkusterer.github.io/authors/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://djkusterer.github.io/publication_types/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://djkusterer.github.io/publication/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djkusterer.github.io/publication/self-evaluations/</loc>
@@ -53,16 +59,10 @@
     <loc>https://djkusterer.github.io/talk/2022-cope/</loc>
     <lastmod>2022-03-18T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://djkusterer.github.io/publication-type/3/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://djkusterer.github.io/publication/crt-wm/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://djkusterer.github.io/publication/spe/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://djkusterer.github.io/publication-type/2/</loc>
+    <loc>https://djkusterer.github.io/publication-type/3/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djkusterer.github.io/publication/rate-this-transaction/</loc>
