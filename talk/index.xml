@@ -5,12 +5,20 @@
     <link>https://djkusterer.github.io/talk/</link>
       <atom:link href="https://djkusterer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David J. Kusterer 2024</copyright><lastBuildDate>Mon, 13 May 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David J. Kusterer 2024</copyright><lastBuildDate>Tue, 03 Sep 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://djkusterer.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://djkusterer.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Workshop Behavioral Economics 2024</title>
+      <link>https://djkusterer.github.io/talk/2024-harzreise/</link>
+      <pubDate>Tue, 03 Sep 2024 13:00:00 +0000</pubDate>
+      <guid>https://djkusterer.github.io/talk/2024-harzreise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Workshop on Digital Markets 2024</title>
