@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | David J. Kusterer</title>
+    <link>http://localhost:4321/publication-type/0/</link>
+      <atom:link href="http://localhost:4321/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David J. Kusterer 2026</copyright><lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/images/icon_hu10226378635250344412.png</url>
+      <title>0</title>
+      <link>http://localhost:4321/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Trust in AI Recommendations on Electronic Markets: Experimental Evidence</title>
+      <link>http://localhost:4321/publication/ai-rec/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/ai-rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
